@@ -1,0 +1,8 @@
+skyfield>=1.46
+ortools>=9.7.2996
+fastapi>=0.104.1
+uvicorn>=0.24.0
+pydantic>=2.5.0
+python-dateutil>=2.8.2
+numpy>=1.24.0
+requests>=2.31.0
